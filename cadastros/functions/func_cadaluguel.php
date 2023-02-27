@@ -30,4 +30,5 @@ $updateCarro->bindValue(":carro", $carro);
 $updateCarro->execute();
 ?>
 <script>alert('Aluguel cadastrado com sucesso')</script>
+
 <meta http-equiv="refresh" content="0; url=../cadaluguel.php">
