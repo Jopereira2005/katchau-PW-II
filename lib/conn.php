@@ -1,4 +1,5 @@
-<?php
+<?
+
 const DBDRIVE = 'mysql';
 const DBHOST = 'localhost';
 const DBNAME = 'katchau';
